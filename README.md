@@ -37,7 +37,7 @@ chmod +x *.sh
 ./validate_environment.sh
 ```
 
-## 🎯 Your First JCL Job
+## Your First JCL Job
 
 ### Look at the Example
 ```bash
@@ -67,7 +67,7 @@ Program executed successfully
 
 This shows **real COBOL compilation and execution** - not just simulation!
 
-## 📚 Understanding JCL Basics
+## Understanding JCL Basics
 
 ### JCL Syntax
 ```jcl
@@ -88,7 +88,7 @@ This shows **real COBOL compilation and execution** - not just simulation!
 //SYSOUT   DD   SYSOUT=*
 ```
 
-## 🔧 Key Commands
+## Key Commands
 
 ```bash
 # Dataset Management
@@ -101,7 +101,7 @@ This shows **real COBOL compilation and execution** - not just simulation!
 ./demo.sh                          # See working examples
 ```
 
-## 📁 File Organization
+## File Organization
 
 | What | Where | Purpose |
 |------|-------|---------|
@@ -110,7 +110,7 @@ This shows **real COBOL compilation and execution** - not just simulation!
 | Datasets | `datasets/` | Data files and catalogs |
 | Output | `output/` | Job execution results |
 
-## 🔍 Framework Features
+## Framework Features
 
 ### JCL Support
 - JOB statements - Job definition and parameters
@@ -132,14 +132,14 @@ This shows **real COBOL compilation and execution** - not just simulation!
 - Generation Data Groups (GDG) simulation
 - Temporary datasets
 
-## 🆘 Getting Help
+## Getting Help
 
 - Each error message includes helpful guidance
 - Review exercise instructions carefully
 - Run `./demo.sh` to see working examples
 - Check execution logs in `./output/sysout/` for details
 
-## 🎓 Ready to Start?
+## Ready to Start?
 
 1. Run `./demo.sh` to see everything in action
 2. Try the hello world example above
