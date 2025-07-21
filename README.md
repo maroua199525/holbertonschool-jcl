@@ -15,6 +15,8 @@ After completing this course, you'll be able to:
 - Linux/Unix environment (Ubuntu, CentOS, macOS, WSL)
 - Bash shell (version 4.0+)
 - Basic command-line knowledge
+- GnuCOBOL (open-source COBOL compiler)
+
 
 ## 🚀 Quick Setup
 
@@ -152,6 +154,5 @@ This shows **real COBOL compilation and execution** - not just simulation!
 |-------------|---------------|
 | Shell scripts | JCL |
 | File system | VSAM/SMS |
-| Process pipes | QSAM |
 | Exit codes | Return codes |
 | Log files | SYSOUT |
